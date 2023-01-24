@@ -1,2 +1,4 @@
-# PM_Cubos_Academy
-https://cubos.academy/cursos/product-management
+# Product Management - Cubos Academy
+Link para o curso [aqui](https://cubos.academy/cursos/product-management)
+
+## Atividades submetidas
